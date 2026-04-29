@@ -1,3 +1,6 @@
+//Credits: Malin Lenz Litlehei, Signe Svingen Fjeldavli , Leo Korn Gjessing, Annabella Paintsil, Erik Magnus Pettersen Gustavsen
+//Libraries: AD9833 by Billwilliams1952
+
 #include <AD9833.h>     // Henter ad9833 biblioteket
 #define FNC_PIN 4       // definerer pin 4 som kontroll-pinnen
 const int PIN_VIBRATION = 4;
