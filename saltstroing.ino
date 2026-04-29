@@ -1,3 +1,5 @@
+//Credits: Malin Lenz Litlehei, Signe Svingen Fjeldavli , Leo Korn Gjessing, Annabella Paintsil, Erik Magnus Pettersen Gustavsen
+
 //Variabler for debounce (brukes til saltpåfyllingsknappen)
 int sandKnappState = HIGH;              
 static bool lastSandKnappState = HIGH;
