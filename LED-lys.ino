@@ -1,3 +1,7 @@
+//Credits: Malin Lenz Litlehei, Signe Svingen Fjeldavli , Leo Korn Gjessing, Annabella Paintsil, Erik Magnus Pettersen Gustavsen
+//Libraries : FastLED by Daniel Garcia
+
+
 #include <FastLED.h>
 
 #define LED_PIN_1    6
